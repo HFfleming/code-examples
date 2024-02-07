@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/code-examples.iml" filepath="$PROJECT_DIR$/.idea/code-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-prometheus/springboot-prometheus.iml" filepath="$PROJECT_DIR$/springboot-prometheus/springboot-prometheus.iml" />
     </modules>
   </component>
 </project>
