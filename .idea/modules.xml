@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tracing-demo/bar-svc/bar-svc.iml" filepath="$PROJECT_DIR$/spring-boot-tracing-demo/bar-svc/bar-svc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/code-examples.iml" filepath="$PROJECT_DIR$/.idea/code-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tracing-demo/foo-svc/foo-svc.iml" filepath="$PROJECT_DIR$/spring-boot-tracing-demo/foo-svc/foo-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tracing-demo/loo-svc/loo-svc.iml" filepath="$PROJECT_DIR$/spring-boot-tracing-demo/loo-svc/loo-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tracing-demo/spring-boot-tracing-demo.iml" filepath="$PROJECT_DIR$/spring-boot-tracing-demo/spring-boot-tracing-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-prometheus/springboot-prometheus.iml" filepath="$PROJECT_DIR$/springboot-prometheus/springboot-prometheus.iml" />
     </modules>
   </component>
